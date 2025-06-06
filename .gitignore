@@ -1,0 +1,10 @@
+.env
+.env
+__pycache__/
+*.pyc
+*.log
+.vscode/
+.idea/
+*.db
+.ngrok2/
+node_modules/

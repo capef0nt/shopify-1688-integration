@@ -1,0 +1,4 @@
+ShopifyAPI==12.4.0
+python-dotenv==1.0.1
+fastapi
+uvicorn
